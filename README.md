@@ -1,1 +1,2 @@
-[Live Site]()
+Whiskey Drop is a website that offer monthly whiskey packages delivered firstly to your door. It was created to explore using the features of Bootstrap.
+[Live Site](https://danmorriss.github.io/whiskey-drop/)
