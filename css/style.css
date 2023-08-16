@@ -201,4 +201,6 @@ feature i {
 .feature .btn:hover {
     color:#df4929;
     box-shadow: 3px 3px 15px#df4929;
+    background-color: #f5f1f1;
+    border-color: #f5f1f1;
 }
